@@ -12,7 +12,7 @@ Just clone and then use live-server module found on npm
 ```bash
 npm run dev
 ```
-npm run dev- builds tailwindcss bundle css.
+npm run dev- builds tailwindcss bundle
 
 ## Usage
 
